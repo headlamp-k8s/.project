@@ -1,0 +1,16 @@
+# Maintainer roster for Headlamp
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+
+#  Maintainers: Please connect your GitHub handle to your LFID on openprofile.dev to enable automatic access to CNCF resources. The system will use your primary email address for setup.
+maintainers:
+  - project_id: "headlamp"
+    org: "headlamp-k8s"
+    teams:
+      - name: "project-maintainers"
+        members:
+          - joaquimrocha
+          - illume
+          - ashu8912
+          - yolossn
+          - knrt10
